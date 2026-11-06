@@ -1,0 +1,144 @@
+{
+  "season": "2026-27",
+  "rosterVersion": 3,
+  "clubCount": 96,
+  "playerEntryCount": 787,
+  "caPaOverrideCount": 335,
+  "leagueCoverage": {
+    "프리미어리그": {
+      "clubs": 20,
+      "players": 64,
+      "clubsWith11Plus": 1
+    },
+    "라리가": {
+      "clubs": 20,
+      "players": 20,
+      "clubsWith11Plus": 0
+    },
+    "분데스리가": {
+      "clubs": 18,
+      "players": 18,
+      "clubsWith11Plus": 0
+    },
+    "세리에 A": {
+      "clubs": 20,
+      "players": 667,
+      "clubsWith11Plus": 20
+    },
+    "리그 1": {
+      "clubs": 18,
+      "players": 18,
+      "clubsWith11Plus": 0
+    }
+  },
+  "playersWithLatinCharacters": 678,
+  "clubsWithAtLeast11ImportedPlayers": [
+    {
+      "club": "리버풀",
+      "league": "프리미어리그",
+      "count": 14
+    },
+    {
+      "club": "인터 밀란",
+      "league": "세리에 A",
+      "count": 25
+    },
+    {
+      "club": "AC 밀란",
+      "league": "세리에 A",
+      "count": 34
+    },
+    {
+      "club": "유벤투스",
+      "league": "세리에 A",
+      "count": 33
+    },
+    {
+      "club": "나폴리",
+      "league": "세리에 A",
+      "count": 31
+    },
+    {
+      "club": "AS 로마",
+      "league": "세리에 A",
+      "count": 30
+    },
+    {
+      "club": "아탈란타",
+      "league": "세리에 A",
+      "count": 29
+    },
+    {
+      "club": "볼로냐",
+      "league": "세리에 A",
+      "count": 31
+    },
+    {
+      "club": "피오렌티나",
+      "league": "세리에 A",
+      "count": 31
+    },
+    {
+      "club": "라치오",
+      "league": "세리에 A",
+      "count": 38
+    },
+    {
+      "club": "토리노",
+      "league": "세리에 A",
+      "count": 34
+    },
+    {
+      "club": "코모",
+      "league": "세리에 A",
+      "count": 35
+    },
+    {
+      "club": "제노아",
+      "league": "세리에 A",
+      "count": 36
+    },
+    {
+      "club": "칼리아리",
+      "league": "세리에 A",
+      "count": 35
+    },
+    {
+      "club": "파르마",
+      "league": "세리에 A",
+      "count": 33
+    },
+    {
+      "club": "사수올로",
+      "league": "세리에 A",
+      "count": 39
+    },
+    {
+      "club": "우디네세",
+      "league": "세리에 A",
+      "count": 32
+    },
+    {
+      "club": "레체",
+      "league": "세리에 A",
+      "count": 36
+    },
+    {
+      "club": "프로시노네",
+      "league": "세리에 A",
+      "count": 32
+    },
+    {
+      "club": "몬차",
+      "league": "세리에 A",
+      "count": 34
+    },
+    {
+      "club": "베네치아",
+      "league": "세리에 A",
+      "count": 39
+    }
+  ],
+  "tests": "npm test 통과",
+  "productionBuild": "실행 불가: 작업 폴더에 vite 의존성이 설치되어 있지 않음"
+}
